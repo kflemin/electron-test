@@ -1,0 +1,23 @@
+{
+  "name": "pat2.0",
+  "description": "New PAT 2.0 app",
+  "main": "Gulpfile.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "~1.4.7",
+    "angular": "~1.4.7",
+    "angular-resource": "~1.4.7",
+    "angular-bootstrap": "~0.14.2",
+    "angular-bootstrap-switch": "~0.4.1",
+    "angular-ui-router": "~0.2.15",
+    "angular-toastr": "~1.5.0",
+    "bootstrap-sass": "~3.3.5",
+    "lodash": "~3.10.1",
+    "angular-animate": "~1.4.7"
+  }
+}
